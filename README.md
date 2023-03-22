@@ -1,2 +1,2 @@
 # Predicting-Diamond-Prices
-Predicting Diamond Prices using various regression algorithms.
+Predicting Diamond Prices using data cleaning, feature engineering and various regression algorithms.
